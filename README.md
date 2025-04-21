@@ -24,7 +24,7 @@
 
 點擊分頁顯示下一頁內容
 ---
-![分頁](https://github.com/user-attachments/assets/bede413e-03b0-4fb4-ba73-c618353bbede)
+![分頁](https://github.com/CHANGYU-WEN/shopstore/blob/main/row/%E5%88%86%E9%A0%81.png)
 
 
 點擊按鈕加入購物車
